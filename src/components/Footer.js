@@ -5,9 +5,10 @@ export const Footer = () => {
     <div>
          <footer>
     <div className="footer-icons">
-      <span>🏠 Home</span>
-      <span>📺</span>
-      <span>≡</span>
+      <span>Facebook</span>
+      <span>Instagram</span>
+      <span>Twitter</span>
+      <span>Whatsup</span>
     </div>
   </footer>
     </div>
