@@ -4,6 +4,9 @@ import darknigh from "../assets/darknight.jpeg"
 import godzillavskingkong from "../assets/godzillavskingkong.jpeg"
 import Noah from "../assets/Noah.jpeg"
 import warcraft from "../assets/warcraft.jpeg"
+import roses from "../assets/roses.jpg"
+
+
 
 export const Moviedetails = () => {
   return (
@@ -36,7 +39,7 @@ export const Moviedetails = () => {
      <img src={godzillavskingkong} alt="godzillavskingkong" />
       <img src={Noah} alt="Noah" />
       <img src={warcraft} alt="warcraft" />
-      <img src={Noah} alt="Noah" />
+      <img src={roses} alt="Noah" />
       
     </div>
   </section>
