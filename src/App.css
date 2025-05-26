@@ -80,8 +80,8 @@ header {
 /* Centered nav links */
 .navbar {
   display: flex;
-  gap: 1.5rem;
-  justify-content: center;
+ gap: 1.5rem; 
+  justify-content: space-evenly;
   flex: 1;
 
  
@@ -92,7 +92,7 @@ header {
   text-decoration: none;
   font-size: 1rem;
   font-weight: 500;
-  align-items: center;
+  /* align-items: center; */
  
 }
 
